@@ -1,3 +1,3 @@
 # SwingDemos
 
-  <img src="" width="80" height="80">
+  <img src="images/list" width="80" height="80">
